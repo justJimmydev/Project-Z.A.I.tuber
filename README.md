@@ -1,6 +1,6 @@
 # Project Z.A.I.tuber
 
-**Zeroto's Artificial Intelligence VTuber Project**
+**Zeroto's (My) Artificial Intelligence VTuber Project**
 
 Project Z.A.I.tuber is my personal attempt to build an original AI-powered VTuber from the ground up.
 

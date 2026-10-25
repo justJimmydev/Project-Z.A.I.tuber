@@ -1,3 +1,7 @@
-print("Wewlcome to the VTuber AI prototype!")
-name = input("What's your name? ")
-print(f"Nice to meeft you {name}!")
+while True:
+    word = input("Enter a word: ")
+
+    if word == "exit":
+        break
+
+    print(word)
